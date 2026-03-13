@@ -228,5 +228,3 @@ If successful, this framework enables:
 * stronger industry and academic partnerships
 * improved research throughput
 * a reproducible model for lab engagement systems
-
-If you want, I can also show you a **much shorter 1–2 paragraph version** that would likely impress Bree more (because professors often prefer **simple initiatives over very complex ones**).
