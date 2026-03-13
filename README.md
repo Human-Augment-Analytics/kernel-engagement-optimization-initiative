@@ -1,230 +1,268 @@
-# Kernal External Engagement Optimization Initiative
+# HAAG Engagement Initiative
 
-### Building a System for External Research Collaboration
+### Stakeholder Collaboration System
 
 ---
 
 # Overview
 
-This repository contains all documentation, templates, and frameworks related to the **Kernal External Engagement Optimization Initiative**.
+This repository contains documentation, frameworks, and procedures developed as part of the **HAAG Engagement Initiative**.
 
-The purpose of this initiative is to design and test a **structured system that allows external partners to effectively engage with Kernal research projects**.
+The purpose of this initiative is to design and test **organizational processes that enable external stakeholders to effectively engage with HAAG research activities**.
 
-Rather than treating collaboration challenges as individual coordination issues, this initiative approaches engagement as a **system design problem**.
+This initiative operates at the **organizational level** rather than at the level of individual research projects.
 
-The goal is to create a repeatable framework that allows:
+The initiative focuses on two core engagement mechanisms:
 
-* external researchers
+1. **Website Engagement** — how HAAG communicates research opportunities and collaboration pathways through its website.
+2. **Stakeholder Engagement** — how HAAG members facilitate collaboration between HAAG and external partners.
+
+The objective is to produce **repeatable procedures, documentation, and training artifacts** that allow HAAG members to consistently support external collaboration.
+
+---
+
+# Initiative Goals
+
+The initiative aims to answer two core questions:
+
+1. **How should the HAAG website be used to engage external audiences?**
+
+2. **How should HAAG members facilitate collaboration between HAAG and external stakeholders?**
+
+To address these questions, this initiative develops documented procedures and evaluates their effectiveness through structured testing.
+
+---
+
+# Engagement Workstreams
+
+The initiative is organized into two engagement workstreams.
+
+---
+
+# 1. Website Engagement Workstream
+
+## Objective
+
+Design procedures that allow the HAAG website to function as an effective interface between HAAG research and external stakeholders.
+
+The website should enable external users to:
+
+* discover HAAG research activities
+* understand collaboration opportunities
+* identify relevant contacts
+* initiate collaboration discussions
+
+---
+
+## Action Items
+
+1. **Document Current Website Structure**
+
+   Analyze the existing HAAG website and document:
+
+   * current research project listings
+   * available collaboration information
+   * current update workflows
+   * points where information becomes outdated
+
+---
+
+2. **Define Website Engagement Procedure**
+
+   Create a documented procedure describing:
+
+   * how research projects should appear on the website
+   * how project pages are updated
+   * how external collaborators initiate contact
+   * how website information is synchronized with research repositories
+
+---
+
+3. **Design Website Content Template**
+
+   Develop a standardized template for presenting research projects that includes:
+
+   * project description
+   * research objectives
+   * collaboration opportunities
+   * contact information
+   * links to supporting resources
+
+---
+
+4. **Create Website Update Workflow**
+
+   Define a workflow specifying:
+
+   * who updates website content
+   * how updates are requested
+   * how outdated content is identified
+   * how updates are validated
+
+---
+
+## Deliverables
+
+The Website Engagement workstream will produce the following artifacts:
+
+* **Website Engagement Procedure Document**
+* **Research Project Website Template**
+* **Website Update Workflow Guide**
+* **Website Engagement Best Practices Guide**
+
+---
+
+## Evaluation Criteria
+
+The website engagement system will be considered adequate if:
+
+1. A new HAAG research project can be added to the website using the provided template in **under 30 minutes**.
+
+2. An external visitor can identify:
+
+   * the project purpose
+   * collaboration opportunities
+   * the appropriate contact person
+
+   within **15 minutes of visiting the page**.
+
+3. The website update workflow clearly defines:
+
+   * responsible roles
+   * update frequency
+   * verification steps.
+
+4. The procedures can be followed without requiring additional undocumented steps.
+
+---
+
+# 2. Stakeholder Engagement Workstream
+
+## Objective
+
+Develop procedures that enable HAAG members to facilitate collaboration between HAAG and external partners.
+
+Stakeholders may include:
+
 * industry partners
-* prospective collaborators
-* new contributors
+* academic collaborators
+* external research labs
+* prospective contributors
 
-to **easily discover, understand, and contribute to Kernal projects**.
-
-In short:
-
-We are not optimizing individuals.
-We are optimizing the **system through which external partners engage with Kernal.**
+The goal is to create structured processes for initiating and managing collaboration.
 
 ---
 
-# The Core Problem
+## Action Items
 
-Research labs often struggle with external collaboration because:
+1. **Map Current Stakeholder Interaction Process**
 
-* Projects are difficult for outsiders to understand
-* Ownership and responsibilities are unclear
-* New contributors do not know where to start
-* Collaboration opportunities are not visible
-* Workflows for contributing are undocumented
+   Document how collaborations currently begin, including:
 
-As a result, potential collaborators often disengage before contributing.
+   * how partners discover HAAG
+   * how communication is initiated
+   * how research discussions begin
 
 ---
 
-# The Core Shift
+2. **Define Stakeholder Engagement Procedure**
 
-## Traditional Research Collaboration Model
+   Create a documented procedure that explains how HAAG members should:
 
-* External partners must rely on informal introductions
-* Project structures are not clearly documented
-* Contribution pathways are unclear
-* Collaboration opportunities are discovered randomly
-
-## Structured Engagement Model (Proposed)
-
-* Projects are externally visible and documented
-* Collaboration entry points are clearly defined
-* External partners can easily identify where they can contribute
-* Ownership and responsibilities are transparent
-* Collaboration workflows are standardized
-
-Primary Questions:
-
-* “Can an external collaborator understand how to contribute within 15 minutes?”
-* “Are collaboration opportunities clearly visible?”
-* “Can partners identify project owners easily?”
-* “Is the pathway to first contribution clearly defined?”
+   * respond to collaboration inquiries
+   * introduce external partners to HAAG research
+   * connect partners with appropriate research teams
 
 ---
 
-# Initiative Framework
+3. **Develop Stakeholder Engagement Training Guide**
 
-This initiative follows a four-stage experimental model.
+   Create training materials for HAAG members who may act as engagement facilitators.
 
----
+   The guide should cover:
 
-## 1. Discovery
-
-Map how external collaborators currently engage with Kernal.
-
-Questions explored:
-
-* How do external partners currently discover projects?
-* How are collaborations initiated?
-* What documentation exists for new contributors?
-* Where do collaboration bottlenecks occur?
-
-Goal: Understand the **current engagement process for external partners**.
+   * how to communicate HAAG research goals
+   * how to identify collaboration opportunities
+   * how to introduce external partners to research teams
 
 ---
 
-## 2. Hypothesis
+4. **Create Collaboration Facilitation Workflow**
 
-If Kernal introduces:
+   Define a workflow describing:
 
-* clearly documented collaboration pathways
-* visible ownership of project components
-* standardized project documentation
-* a structured collaboration registry
-
-then:
-
-* external partners will engage more easily
-* onboarding time for collaborators will decrease
-* collaboration opportunities will become more visible
-* duplicate external efforts will decrease
+   * how collaboration requests are handled
+   * how external partners are matched with projects
+   * how collaboration discussions are documented
 
 ---
 
-## 3. Experiment
+## Deliverables
 
-Introduce structured engagement infrastructure:
+The Stakeholder Engagement workstream will produce:
 
-* External collaboration documentation for each project
-* Ownership mapping for research components
-* A public collaboration opportunity board
-* A shared experiment registry for partners
-
-The goal is to make **external engagement predictable and repeatable**.
+* **Stakeholder Engagement Procedure Document**
+* **Stakeholder Engagement Training Guide**
+* **External Collaboration Facilitation Workflow**
+* **Collaboration Communication Templates**
 
 ---
 
-## 4. Report & Iterate
+## Evaluation Criteria
 
-Evaluate:
+The stakeholder engagement system will be considered adequate if:
 
-* number of external collaboration inquiries
-* time required for new collaborators to contribute
-* partner satisfaction with documentation
-* duplicate research effort reduction
-* clarity of collaboration pathways
+1. A HAAG member unfamiliar with the process can follow the engagement procedure without additional guidance.
 
-The engagement system will then be refined based on results.
+2. The training guide clearly explains:
 
----
+   * how to identify relevant research groups
+   * how to introduce external collaborators
+   * how to initiate collaboration discussions.
 
-# Engagement Infrastructure
+3. The collaboration facilitation workflow specifies:
 
-The initiative focuses on building four engagement systems.
+   * who responds to inquiries
+   * how partners are connected to projects
+   * how communication is documented.
 
-### 1. Collaboration Discovery System
-
-External researchers must be able to easily discover:
-
-* current Kernal research projects
-* collaboration opportunities
-* project leads
-* open research problems
+4. External stakeholders receive clear guidance on how to initiate collaboration.
 
 ---
 
-### 2. Contribution Pathway System
+# Reporting and Evaluation
 
-Each project must clearly document:
+The initiative will produce a final report summarizing:
 
-* how collaborators can contribute
-* required knowledge or tools
-* current research directions
-* expected deliverables
+* the procedures developed
+* observations during testing
+* recommended improvements
 
----
+The report will evaluate whether the engagement procedures:
 
-### 3. Ownership Transparency System
-
-Each major system component must have visible owners so external partners know who to contact.
-
----
-
-### 4. Experiment Registry
-
-A shared registry that prevents external collaborators from duplicating existing research work.
-
----
-
-# Engagement Tracking
-
-The initiative will track engagement using:
-
-* GitHub project boards
-* collaboration request logs
-* experiment registry usage
-* partner feedback surveys
-
----
-
-# Engagement Metrics
-
-Success will be measured through:
-
-* number of external collaboration requests
-* number of external contributors
-* time-to-first-contribution for collaborators
-* documentation clarity ratings
-* partner satisfaction scores
-
----
-
-# Success Criteria
-
-The initiative succeeds if:
-
-* external partners can easily identify collaboration opportunities
-* onboarding time for collaborators decreases
-* external participation in projects increases
-* research duplication decreases
-* collaboration workflows become reproducible
+* reduce ambiguity in external collaboration
+* improve visibility of HAAG research activities
+* create repeatable processes for engagement.
 
 ---
 
 # Intended Audience
 
-This initiative is designed for:
+The outputs of this initiative are intended for:
 
-* external research collaborators
-* industry partners
-* prospective student researchers
-* Kernal project leads
+* HAAG administrators
+* research managers
+* engagement facilitators
 * faculty advisors
+* external collaborators.
 
 ---
 
-# Long-Term Vision
+# Long-Term Impact
 
-If successful, this framework enables:
+If successful, the engagement framework will allow HAAG to:
 
-* scalable collaboration with external partners
-* faster integration of new contributors
-* stronger industry and academic partnerships
-* improved research throughput
-* a reproducible model for lab engagement systems
+* support sustainable external collaboration
+* improve visibility of HAAG research activities
+* standardize engagement practices across semesters
+* reduce ambiguity in collaboration initiation.
