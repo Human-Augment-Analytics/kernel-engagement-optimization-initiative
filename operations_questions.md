@@ -1,6 +1,6 @@
 # HAAG Engagement Initiative — Operations Questions
 
-This document answers the operations-focused reflection questions for the HAAG Engagement Initiative. It is grounded in the initiative’s purpose of creating sustainable, repeatable systems for external engagement and collaboration support. fileciteturn0file0L1-L86
+This document answers the operations-focused reflection questions for the HAAG Engagement Initiative. It is grounded in the initiative’s purpose of creating sustainable, repeatable systems for external engagement and collaboration support.
 
 ## Define what reoccurring tasks you are doing within your project group.
 
@@ -16,7 +16,7 @@ The most important indicator of whether the role is effective is whether the gro
 
 ## What challenges and success have you observed in your group?
 
-One success is that the group has already framed the initiative in a strong organizational way. The project clearly distinguishes between website engagement and stakeholder engagement, which helps break a broad problem into manageable workstreams. Another success is that the initiative already includes deliverables and evaluation criteria, which gives the group a concrete basis for planning and review. fileciteturn0file0L15-L71
+One success is that the group has already framed the initiative in a strong organizational way. The project clearly distinguishes between website engagement and stakeholder engagement, which helps break a broad problem into manageable workstreams. Another success is that the initiative already includes deliverables and evaluation criteria, which gives the group a concrete basis for planning and review.
 
 One challenge is that the project depends heavily on converting conceptual goals into practical workflows. It is easier to agree that HAAG should improve collaboration pathways than it is to define exactly who updates content, who receives inquiries, and how handoffs are documented. Another challenge is sustaining momentum when the work is process-heavy and its value may not be immediately visible unless the group actively tests the procedures.
 
