@@ -15,7 +15,7 @@ This initiative operates at the **organizational level** rather than at the leve
 The initiative focuses on two core engagement mechanisms:
 
 1. **Website Engagement** — how HAAG communicates research opportunities and collaboration pathways through its website.
-2. **Stakeholder Engagement** — how HAAG members facilitate collaboration between HAAG and external partners.
+2. **Stakeholder Engagement** — how HAAG members facilitate collaboration between HAAG and external partners using communication channels appropriate to the stakeholder and context, whether email or other formats, with communication activity tracked in a CRM.
 
 The objective is to produce **repeatable procedures, documentation, and training artifacts** that allow HAAG members to consistently support external collaboration.
 
@@ -149,7 +149,7 @@ Stakeholders may include:
 * external research labs
 * prospective contributors
 
-The goal is to create structured processes for initiating and managing collaboration.
+The goal is to create structured processes for initiating and managing collaboration. These processes should be communication-style agnostic, allowing HAAG members and stakeholders to engage through email or other appropriate communication methods depending on context, while ensuring that communication activity is consistently tracked in a CRM.
 
 ---
 
@@ -160,7 +160,7 @@ The goal is to create structured processes for initiating and managing collabora
    Document how collaborations currently begin, including:
 
    * how partners discover HAAG
-   * how communication is initiated
+   * how communication is initiated across channel-agnostic formats such as email or other appropriate communication methods
    * how research discussions begin
 
 ---
@@ -169,9 +169,10 @@ The goal is to create structured processes for initiating and managing collabora
 
    Create a documented procedure that explains how HAAG members should:
 
-   * respond to collaboration inquiries
-   * introduce external partners to HAAG research
+   * respond to collaboration inquiries through the communication channel most appropriate to the stakeholder and context
+   * introduce external partners to HAAG research using email or other suitable communication methods
    * connect partners with appropriate research teams
+   * record and track stakeholder communication in a CRM
 
 ---
 
@@ -184,6 +185,8 @@ The goal is to create structured processes for initiating and managing collabora
    * how to communicate HAAG research goals
    * how to identify collaboration opportunities
    * how to introduce external partners to research teams
+   * how to select the appropriate communication method for the stakeholder and context
+   * how to log communication activity in the CRM
 
 ---
 
@@ -194,6 +197,7 @@ The goal is to create structured processes for initiating and managing collabora
    * how collaboration requests are handled
    * how external partners are matched with projects
    * how collaboration discussions are documented
+   * how stakeholder communication is logged and tracked in a CRM regardless of whether the interaction occurs by email or another communication method
 
 ---
 
@@ -205,6 +209,7 @@ The Stakeholder Engagement workstream will produce:
 * **Stakeholder Engagement Training Guide**
 * **External Collaboration Facilitation Workflow**
 * **Collaboration Communication Templates**
+* **CRM Communication Tracking Guidelines**
 
 ---
 
@@ -218,13 +223,13 @@ The stakeholder engagement system will be considered adequate if:
 
    * how to identify relevant research groups
    * how to introduce external collaborators
-   * how to initiate collaboration discussions.
+   * how to initiate collaboration discussions through appropriate communication channels.
 
 3. The collaboration facilitation workflow specifies:
 
    * who responds to inquiries
    * how partners are connected to projects
-   * how communication is documented.
+   * how communication is documented and tracked in a CRM.
 
 4. External stakeholders receive clear guidance on how to initiate collaboration.
 
@@ -265,4 +270,5 @@ If successful, the engagement framework will allow HAAG to:
 * support sustainable external collaboration
 * improve visibility of HAAG research activities
 * standardize engagement practices across semesters
-* reduce ambiguity in collaboration initiation.
+* reduce ambiguity in collaboration initiation
+* maintain more consistent records of stakeholder communication through CRM tracking.
