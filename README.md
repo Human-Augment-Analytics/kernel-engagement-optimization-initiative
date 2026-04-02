@@ -135,6 +135,7 @@ The website engagement system will be considered adequate if:
 4. The procedures can be followed without requiring additional undocumented steps.
 
 ---
+![CRM](ODOO.png)
 
 # 2. Stakeholder Engagement Workstream
 
