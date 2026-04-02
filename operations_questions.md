@@ -28,7 +28,7 @@ This role also involves listening for friction points. If administrators need cl
 
 ## What feedback have you received on your role, solicited or unsolicited?
 
-At this stage, the most visible form of feedback appears to be structural rather than personal. The existence of initiative goals, workstreams, deliverables, and evaluation criteria suggests that there is support for a project management approach centered on organization, documentation, and repeatability. fileciteturn0file0L15-L71
+At this stage, the most visible form of feedback appears to be structural rather than personal. The existence of initiative goals, workstreams, deliverables, and evaluation criteria suggests that there is support for a project management approach centered on organization, documentation, and repeatability.
 
 Solicited feedback that would be especially valuable includes whether stakeholders feel the process is becoming clearer, whether the documentation is specific enough to act on, and whether the initiative is focusing on the right bottlenecks. Unsolicited feedback would likely show up as confusion, delayed responses, inconsistent engagement, or repeated questions about ownership and next steps. Those signals should be treated as useful feedback on the current management approach, even if they are not framed directly as performance comments.
 
