@@ -65,7 +65,7 @@ There should be a way for users to reach out/share their email so the CRM proces
    * current research project listings
    * available collaboration information
    * current update workflows
-   * points where information becomes outdated
+   * how user communication is recorded and accepted
 
 ---
 
