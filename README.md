@@ -25,7 +25,7 @@ The objective is to produce **repeatable procedures, documentation, and training
 
 The initiative aims to answer two core questions:
 
-1. **How should the HAAG website be used to engage external audiences?**
+1. **How should the existing HAAG website be used to engage external audiences?**
 
 2. **How should HAAG members facilitate collaboration between HAAG and external stakeholders?**
 
@@ -43,7 +43,7 @@ The initiative is organized into two engagement workstreams.
 
 ## Objective
 
-Design procedures that allow the HAAG website to function as an effective interface between HAAG research and external stakeholders.
+Design procedures that allow the existing HAAG website to function as an effective interface between HAAG research and external stakeholders.
 
 The website should enable external users to:
 
@@ -51,6 +51,8 @@ The website should enable external users to:
 * understand collaboration opportunities
 * identify relevant contacts
 * initiate collaboration discussions
+
+There should be a way for users to reach out/share their email so the CRM process can legally be initiated (see part #2).
 
 ---
 
@@ -90,7 +92,7 @@ The website should enable external users to:
 
 ---
 
-4. **Create Website Update Workflow**
+4. **Create Website Contact Update Workflow**
 
    Define a workflow specifying:
 
