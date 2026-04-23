@@ -10,8 +10,11 @@ The scope of the initiative is organizational rather than project-specific.
 It includes designing procedures for how HAAG research should be represented on the website, how collaboration opportunities should be communicated, how external stakeholders should identify relevant contacts, and how collaboration discussions should be initiated and documented through a consistent workflow with CRM tracking. 
 The scope does not include carrying out the research itself or managing the internal technical work of individual HAAG projects. 
 Instead, it focuses on the external-facing systems that support visibility, intake, routing, and continuity of collaboration across semesters. 
-This scope is reflected in the initiative’s documented workstreams and supporting procedure documents on website engagement, collaboration pathways, contact identification, and initiating collaboration discussions.     
+This scope is reflected in the initiative’s documented workstreams and supporting procedure documents on website engagement, collaboration pathways, contact identification, and initiating collaboration discussions.
 
+## Intended Audience
+
+The intended audience for this initiative includes both external and internal stakeholders. Externally, the initiative is designed for potential industry partners, academic collaborators, prospective contributors, and other visitors who need a clearer way to discover HAAG’s research, understand collaboration opportunities, and identify the correct point of contact. Internally, the initiative is intended for HAAG members responsible for maintaining the website, responding to inquiries, routing stakeholder interest, and documenting outreach through a consistent process. This audience matters because the initiative is meant not only to improve how HAAG presents itself to outside stakeholders, but also to provide HAAG members with a repeatable system that can continue beyond a single semester.
 
 ## Evidence That the Initiative Aligns With HAAG’s Goals
 
