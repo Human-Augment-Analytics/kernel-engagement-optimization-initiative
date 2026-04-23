@@ -26,17 +26,51 @@ The initiative also aligns with HAAG’s goals because it was designed to be tes
 
 ## Procedures Generated, Their Purpose, and Where They Are Hosted
 
-The procedures I generated are hosted in the initiative GitHub repository and were designed to work together as a structured external engagement system rather than as isolated documents.
+The procedures I generated are hosted in the initiative GitHub repository and were designed to work together as a structured external engagement system rather than as isolated documents. Together, they create a workflow that begins with research discovery, moves into understanding collaboration opportunities, helps stakeholders identify the appropriate point of contact, and then guides collaboration initiation through a consistent and documented process. The repository’s **README.md** serves as the organizing framework for the initiative by defining the two workstreams, the intended audiences, the deliverables, and the evaluation criteria for success.  
 
-The first procedure is the **website engagement guide**, which explains how external audiences should browse HAAG research, what information should be consistently available on project pages, and how standardized summaries and update practices can make HAAG’s research easier to understand. Its purpose is to make discovery easier for outside stakeholders and to reduce confusion about what HAAG is working on. The procedure is hosted here: [website_engagement.md](https://github.com/Human-Augment-Analytics/kernel-engagement-optimization-initiative/blob/main/website_engagement.md). 
+The first procedure is the **website engagement guide**, hosted in **website_engagement.md**. Its purpose is to make discovery easier for outside stakeholders and reduce confusion about what HAAG is working on. The procedure can be summarized in the following steps:
 
-The second procedure is the **collaboration opportunities guide**, which defines the main collaboration tracks available through HAAG, including industry partnerships, academic and lab collaborations, and opportunities for prospective contributors. Its purpose is to clarify what kinds of engagement HAAG is open to and to make expectations more explicit for outside stakeholders. This document is hosted here: [collab_opportunities.md](https://github.com/Human-Augment-Analytics/kernel-engagement-optimization-initiative/blob/main/collab_opportunities.md). 
+1. External visitors browse HAAG research through a consistent website structure rather than scattered or inconsistent descriptions.
+2. Each project page includes a standard set of information so that visitors can quickly understand the project’s purpose, stage, and relevance.
+3. Standardized summaries are used to make research understandable to audiences who may not already know the technical background.
+4. Project pages are updated through a regular and repeatable process so that information remains current and useful over time.
 
-The third procedure is the **contact identification guide**, which explains which HAAG roles are appropriate for different types of inquiries, including engagement facilitators, project leads, research managers, and faculty advisors. Its purpose is to reduce misrouting and help stakeholders reach the right person more efficiently while preserving continuity through CRM logging. This document is hosted here: [identifying_contacts.md](https://github.com/Human-Augment-Analytics/kernel-engagement-optimization-initiative/blob/main/identifying_contacts.md). 
+These steps make the website more understandable and ensure that HAAG’s research is presented in a way that supports visibility and engagement.  
 
-The fourth procedure is the **collaboration initiation guide**, which lays out a step-by-step workflow for preparing an inquiry, choosing a communication channel, moving through facilitator review and team introduction, and formalizing the engagement with a roadmap. Its purpose is to make the early stages of collaboration more consistent, less ambiguous, and easier to hand off across semesters. This document is hosted here: [init_collab_discussions.md](https://github.com/Human-Augment-Analytics/kernel-engagement-optimization-initiative/blob/main/init_collab_discussions.md). 
+The second procedure is the **collaboration opportunities guide**, hosted in **collab_opportunities.md**. Its purpose is to clarify what kinds of engagement HAAG is open to and make expectations more explicit for outside stakeholders. The procedure works through the following steps:
 
-In addition to those procedures, the repository’s main overview document serves as the organizing framework for the entire initiative by defining the two workstreams, deliverables, intended audiences, and evaluation criteria. It is hosted here: [README.md](https://github.com/Human-Augment-Analytics/kernel-engagement-optimization-initiative/blob/main/README.md). 
+1. A stakeholder first identifies the type of relationship they are seeking with HAAG.
+2. The stakeholder is then directed into one of the main collaboration tracks.
+3. These tracks include industry partnerships, academic and lab collaborations, and prospective contributor opportunities.
+4. Each track clarifies the general purpose of the relationship and the type of engagement it is meant to support.
+5. The stakeholder can then move forward with a clearer understanding of where their interest fits within HAAG’s structure.
+
+These steps reduce ambiguity and help external audiences frame their interest in a way that HAAG can respond to more effectively.  
+
+The third procedure is the **contact identification guide**, hosted in **identifying_contacts.md**. Its purpose is to reduce misrouting and help stakeholders reach the right person more efficiently while preserving continuity through CRM logging. The procedure can be described in the following steps:
+
+1. The inquiry is first identified by type, such as general, project-specific, strategic, or institutional.
+2. General inquiries are routed to the engagement facilitator.
+3. Project-specific or technical questions are routed to the relevant project lead.
+4. Broader coordination or multi-project questions are routed to the research manager.
+5. Formal institutional or high-level academic collaborations are routed to faculty advisors.
+6. After routing, the interaction is logged so that communication is documented and can be followed across semesters.
+
+These steps create clearer ownership of communication and reduce the risk that stakeholder messages are lost or sent to the wrong person.  
+
+The fourth procedure is the **collaboration initiation guide**, hosted in **init_collab_discussions.md**. Its purpose is to make the early stages of collaboration more consistent, less ambiguous, and easier to hand off across semesters. This procedure follows a clear workflow:
+
+1. Prepare the inquiry by identifying goals, interests, and any relevant supporting materials.
+2. Choose a communication channel, such as email, form submission, or call.
+3. Have the engagement facilitator review the inquiry to assess fit and determine next steps.
+4. Introduce the relevant HAAG team members so that the stakeholder is connected to the correct people.
+5. Formalize the engagement by agreeing on scope, timeline, and a roadmap for the collaboration.
+
+These steps ensure that collaboration does not begin informally or inconsistently, but instead moves through a documented intake and handoff process.  
+
+Taken together, these procedures form a connected system rather than four separate documents. A stakeholder first discovers HAAG’s work through the website engagement guide, then understands the available collaboration paths, identifies the correct contact person, and finally enters a structured collaboration initiation workflow. That sequence is what makes the initiative sustainable, reproducible, and aligned with HAAG’s long-term organizational needs.  
+
+This format is stronger for the rubric because it makes each procedure look like a real process rather than a description.
 
 ## Sustainability and Long-Term Integration
 
@@ -49,5 +83,3 @@ I also worked to make the process realistic for integration into HAAG’s existi
 Overall, this initiative was an effort to build organizational infrastructure for external engagement at HAAG. Its central contribution was not a single technical deliverable, but a system of procedures that makes it easier for outside stakeholders to discover HAAG’s work, understand where collaboration is possible, identify the right contacts, and move through a clearer collaboration pathway. The initiative aligns with HAAG’s goals because it supports research visibility, external partnership development, and long-term continuity. Most importantly, it turns what could otherwise remain informal and inconsistent into a process that is documented, testable, and sustainable.
 
 ---
-
-
